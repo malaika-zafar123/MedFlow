@@ -215,7 +215,7 @@ const Footer = () => {
             Our Services
           </h3>
 
-          <div className="mb-4 h-1 w-12 rounded-full bg-secondary" />
+          <div  />
 
           <ul className="space-y-3">
             {services.map((service) => (
@@ -238,7 +238,7 @@ const Footer = () => {
             Quick Links
           </h3>
 
-          <div className="mb-4 h-1 w-12 rounded-full bg-secondary" />
+          <div />
 
           <ul className="space-y-3">
             {quickLinks.map((link) => (
@@ -261,7 +261,7 @@ const Footer = () => {
             Contact Information
           </h3>
 
-          <div className="mb-4 h-1 w-12 rounded-full bg-secondary" />
+          <div  />
 
           <ul className="space-y-5">
 
