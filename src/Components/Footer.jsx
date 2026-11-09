@@ -31,7 +31,7 @@ const Footer = () => {
     },
     {
       name: "Payment Posting",
-      path: "/services/payment-posting",
+      path: "/services/payment",
     },
     {
       name: "Denial Management",
@@ -43,7 +43,7 @@ const Footer = () => {
     { name: "Home", path: "/" },
     { name: "Solutions", path: "/solutions" },
     { name: "About Us", path: "/about" },
-    { name: "Resources", path: "/resources/rcm-workflow" },
+    { name: "Resources", path: "/resources/workflow" },
     { name: "Contact Us", path: "/contact" },
   ];
 

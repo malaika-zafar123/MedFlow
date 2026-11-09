@@ -13,7 +13,7 @@ const resources = [
         title: "RCM Workflow",
         description:
             "Understand how the revenue cycle works, from patient registration and insurance verification to claim submission and final payment.",
-        link: "/resources/rcm-workflow",
+        link: "/resources/workflow",
         button: "Explore Workflow",
     },
     {

@@ -46,7 +46,7 @@ const services = [
       "ERA and EOB Processing",
       "Payment Reconciliation",
     ],
-    path: "/services/payment-posting",
+    path: "/services/payment",
   },
 ];
 

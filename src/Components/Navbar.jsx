@@ -26,14 +26,14 @@ const Navbar = () => {
     },
     {
       name: "Payment Posting",
-      path: "/services/payment-posting",
+      path: "/services/payment",
     },
   ];
 
   const resources = [
     {
       name: "RCM Workflow",
-      path: "/resources/rcm-workflow",
+      path: "/resources/workflow",
     },
     {
       name: "Revenue Calculator",
